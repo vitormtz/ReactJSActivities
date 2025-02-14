@@ -12,7 +12,7 @@
    Abra o terminal e execute o seguinte comando para clonar o repositório:
 
    ```bash
-   git clone git@github.com:vitormtz/ReactJSActivities.git
+   git clone https://github.com/vitormtz/ReactJSActivities.git
    ```
 
 2. **Navegue até o diretório do projeto:**
