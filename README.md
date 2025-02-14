@@ -5,7 +5,7 @@
 - [Node.js](https://nodejs.org/en/) instalado
 - [Git](https://git-scm.com/) instalado
 
-## Configurar o projeto
+## Configuração do projeto
 
 1. **Clone o repositório:**
 
@@ -29,7 +29,7 @@
    npm install
    ```
 
-## Iniciar o projeto
+## Inicialização do projeto
 
 1. **Róde o código:**
 
