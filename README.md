@@ -41,8 +41,7 @@
    
 1. **Acesse o site**
 
-   Depois de executar o código acima irá aparecer uma URL no terminal, clique nela para abrir o site.
-
+   Após executar o código acima, uma URL será exibida no terminal. Clique nela para acessar o site.
    
 ## Explicação das Atividades
 
